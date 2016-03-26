@@ -1,0 +1,7 @@
+xset -dpms; xset s off &
+(sleep 1s && /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1) &
+(sleep 1s && tint2) &
+(sleep 1s && volumeicon) &
+(sleep 1s && nitrogen --restore) &
+(sleep 1s && parcellite) &
+(sleep 1s && conky ~/.conkyrc) &
