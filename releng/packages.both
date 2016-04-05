@@ -119,6 +119,9 @@ unzip
 zip
 unrar
 
+#Other
+bash-completion
+
 #######################
 ##   General Pkgs    ##
 #######################
