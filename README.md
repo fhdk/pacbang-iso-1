@@ -1,1 +1,2 @@
 # pacbang-iso
+Author: CarlDuff
